@@ -4,7 +4,7 @@ feel free to ask me okay?
 
 
 
-🙈 Discord : Guna#0030
+🙈 Discord : Guna_x
 
 <!---
 Gunarchive/Gunarchive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
