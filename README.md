@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Guna.
-what u looking for?
-feel free to ask me okay?
+## Hey there! 👋
 
+I'm Guna Dharma, a passionate software developer with a love for creating elegant solutions. I thrive on tackling complex problems and turning them into simple, efficient code. When I'm not coding, you can find me exploring the great outdoors and experimenting with new recipes in the kitchen.
 
+🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/guna-dharma-201124204/)
+- Discord: Guna_x
 
-🙈 Discord : Guna_x
+🚀 Some of my key skills:
+- Full-stack development
+- Python programming
+- Web application design
+- Problem-solving
 
-<!---
-Gunarchive/Gunarchive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning:
+- Cloud computing technologies
+- Machine learning fundamentals
+
+📫 How to reach me:
+- Email: gunadharma201@gmail.com
